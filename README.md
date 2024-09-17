@@ -3,7 +3,6 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
-- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
@@ -29,20 +28,6 @@ The dataset contains information collected from direct marketing campaigns of a 
 **Note:** Due to licensing restrictions, the dataset is not included in this repository. Please download it directly from the [source](https://archive.ics.uci.edu/ml/datasets/bank+marketing).
 
 ---
-
-## Project Structure
-
-Bank_marketing_analysis/
-├── data/                           # Data folder (not included)
-│   └── bank-additional-full.csv    # Dataset (to be added by the user)
-├── Bank_Analysis.ipynb         # Jupyter notebook with analysis
-├── images/                         # Folder for result images
-│   ├── Age_distribution.png
-│   ├── Subscription_by_job.png
-│   └── etc..
-├── requirements.txt                # Required Python packages
-├── README.md                       # Project documentation
-└── LICENSE                         # License information
 
 
 ## Installation
